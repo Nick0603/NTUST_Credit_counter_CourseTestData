@@ -1,4 +1,4 @@
-courses.common = {
+{
     "name":"103通識及其他科目",
     "course":[
         {
@@ -47,4 +47,4 @@ courses.common = {
             "credit":16
         }
     ]
-};
+}
