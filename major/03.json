@@ -26,7 +26,7 @@
             {
                 "name":"化學",
                 "semester":1,
-                "credit":2
+                "credit":3
             },
             {
                 "name":"物理實習",
@@ -95,7 +95,7 @@
             {
                 "name":"材料力學",
                 "semester":2,
-                "credit":1
+                "credit":3
             },
             {
                 "name":"工程數學(二)",

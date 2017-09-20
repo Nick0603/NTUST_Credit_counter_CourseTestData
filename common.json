@@ -1,5 +1,5 @@
 {
-    "name":"103通識及其他科目",
+    "name":"104後通識及其他科目",
     "course":[
         {
            "name": "文學領域",
@@ -58,10 +58,53 @@
             "checkWord":"體育"
         },
         {
-            "name": "通識",
+            "name":"通識(A)人文素養",
             "semester":0,
-            "credit":16,
-            "isSpecialCheck":true
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"A"
+        },
+        {
+            "name":"通識(B)當代文明",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"B"
+        },
+        {
+            "name":"通識(C)美感與人生探索",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"C"
+        },
+        {
+            "name":"通識(D)社會與歷史文化",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"D"
+        },
+        {
+            "name":"通識(E)群己與制度發展",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"E"
+        },
+        {
+            "name":"通識(F)自然與生命科學",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"F"
+        },
+        {
+            "name":"通識(G)自主學習",
+            "semester":0,
+            "credit":2,
+            "isSpecialCheck":true,
+            "checkCategory":"G"
         }
     ]
 }
