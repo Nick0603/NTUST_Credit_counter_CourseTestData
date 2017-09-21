@@ -1,0 +1,201 @@
+{
+  "name": "103電子工程系",
+  "code": "ET",
+  "course": {
+    "FirstYear": [
+      {
+        "name": "計算機科學導論",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "微積分",
+        "semester": 1,
+        "credit": 4
+      },
+      {
+        "name": "物理",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "物理實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "化學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "化學實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "電資概論與工程倫理或台灣電資產業論壇與工程倫理(擇一修習)",
+        "semester": 2,
+        "credit": 2,
+        "isSpecialCheck": true,
+        "checkWord": [
+          "電資概論與工程倫理",
+          "台灣電資產業論壇",
+          "工程倫理"
+        ]
+      },
+      {
+        "name": "數位邏輯設計",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "數位邏輯設計實習",
+        "semester": 2,
+        "credit": 1
+      },
+      {
+        "name": "微積分",
+        "semester": 2,
+        "credit": 4
+      },
+      {
+        "name": "物理",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "物理實習",
+        "semester": 2,
+        "credit": 1
+      }
+    ],
+    "SecondYear": [
+      {
+        "name": "微算機原理及應用",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "微算機原理及應用實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "工程數學(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "電子學(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "電子學實習(一)",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "電路學(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "工程數學(二)",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "電子學(二)",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "電路學(二)",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "電子學實習(二)",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "電磁學",
+        "semester": 1,
+        "credit": 3
+      }
+    ],
+    "ThirdYear": [
+      {
+        "name": "線性系統",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "實務專題",
+        "semester": 1,
+        "credit": 2,
+        "isSpecialCheck": true,
+        "checkWord":"實務專題"  
+      }
+    ],
+    "FourthYear": [
+      {
+        "name": "實務專題或校外實習",
+        "semester": 1,
+        "credit": 2,
+        "isSpecialCheck": true,
+        "checkWord": [
+          "實務專題",
+          "校外實習"
+        ]
+      },
+      {
+        "name":"專業實習",
+        "semester": 1,
+        "credit": 1,
+        "isSpecialCheck":true,
+        "checkWord":"實習"
+      },
+      {
+        "name":"專業實習",
+        "semester": 1,
+        "credit": 1,
+        "isSpecialCheck":true,
+        "checkWord":"實習"
+      },
+      {
+        "name":"專業實習(學分2也可以XD)",
+        "semester": 1,
+        "credit": 1,
+        "isSpecialCheck":true,
+        "checkWord":"實習"
+      },
+      {
+        "name":"專業實習",
+        "semester": 1,
+        "credit": 1,
+        "isSpecialCheck":true,
+        "checkWord":"實習"
+      }
+    ],
+    "optional": [
+      {
+        "name": "選修課程",
+        "semester": 0,
+        "credit": 24,
+        "isSpecialCheck": true
+      }
+    ],
+    "other": [
+      {
+        "name": "自由選修課程(10~11學分 依照實習課是否有修單門2學分而變化)",
+        "semester": 0,
+        "credit": 10,
+        "isSpecialCheck": true
+      }
+    ]
+  }
+}

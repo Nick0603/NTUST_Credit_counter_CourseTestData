@@ -1,0 +1,181 @@
+{
+  "name": "103營建工程系",
+  "code": "CT",
+  "course": {
+    "FirstYear": [
+      {
+        "name": "初階數學(一)",
+        "semester": 0,
+        "credit": 0
+      },
+      {
+        "name": "微積分（一）",
+        "semester": 1,
+        "credit": 4
+      },
+      {
+        "name": "化學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "物理實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "計算機概論",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "物理",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "職業倫理",
+        "semester": 1,
+        "credit": 0
+      },
+      {
+        "name": "微積分（二）",
+        "semester": 2,
+        "credit": 4
+      },
+      {
+        "name": "營建工程概論",
+        "semester": 2,
+        "credit": 2
+      },
+      {
+        "name": "工程靜力學",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "物理實習",
+        "semester": 2,
+        "credit": 1
+      },
+      {
+        "name": "化學實習",
+        "semester": 2,
+        "credit": 1
+      },
+      {
+        "name": "物理",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "程式與應用",
+        "semester": 2,
+        "credit": 3,
+        "isSpecialCheck":true,
+        "checkWord":"程式與應用"
+      }
+    ],
+    "SecondYear": [
+      {
+        "name": "工程數學(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "材料力學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "工程材料",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "結構學",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "混凝土品質控制",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "混凝土試驗",
+        "semester": 2,
+        "credit": 1
+      }
+    ],
+    "ThirdYear": [
+      {
+        "name": "鋼筋混凝土設計",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "鋼結構設計",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "土壤力學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "工程管理",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "基礎工程",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "土壤力學試驗",
+        "semester": 2,
+        "credit": 1
+      },
+      {
+        "name": "工程規劃與控制",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "實務專題(一)",
+        "semester": 2,
+        "credit": 2,
+        "isSpecialCheck":true,
+        "checkWord":["專案管理設計實務(一)","橋梁工程設計實務(一)","山坡地設計實務(一)"]
+      }
+    ],
+    "FourthYear": [
+      {
+        "name": "實務專題(二)",
+        "semester": 1,
+        "credit": 2,
+        "isSpecialCheck":true,
+        "checkWord":["專案管理設計實務(二)","橋梁工程設計實務(二)","山坡地設計實務(二)"]
+      }
+    ],
+    "optional": [
+      {
+        "name": "選修課程",
+        "semester": 0,
+        "credit": 27,
+        "isSpecialCheck": true
+      }
+    ],
+    "other": [
+      {
+        "name": "自由選修課程",
+        "semester": 0,
+        "credit": 5,
+        "isSpecialCheck": true
+      }
+    ]
+  }
+}

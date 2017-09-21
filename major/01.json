@@ -1,0 +1,153 @@
+{
+  "name": "103工業管理系",
+  "code": "IM",
+  "course": {
+    "FirstYear": [
+      {
+        "name": "職業倫理",
+        "semester": 0,
+        "credit": 0
+      },
+      {
+        "name": "微積分",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "管理數學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "計算機概論",
+        "semester": 1,
+        "credit": 2
+      },
+      {
+        "name": "經濟學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "管理學",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "計算機概論實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "微積分",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "工業管理概論",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "計算機程式",
+        "semester": 2,
+        "credit": 2
+      },
+      {
+        "name": "會計學",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "計算機程式實習",
+        "semester": 2,
+        "credit": 1
+      }
+    ],
+    "SecondYear": [
+      {
+        "name": "作業研究(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "統計學(一)",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "工作研究",
+        "semester": 1,
+        "credit": 2
+      },
+      {
+        "name": "工作研究實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "作業研究(二)",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "統計學(二)",
+        "semester": 2,
+        "credit": 3
+      },
+      {
+        "name": "生產與作業管理",
+        "semester": 2,
+        "credit": 3
+      }
+    ],
+    "ThirdYear": [
+      {
+        "name": "品質管理",
+        "semester": 1,
+        "credit": 3
+      },
+      {
+        "name": "電子化企業概論",
+        "semester": 1,
+        "credit": 2
+      },
+      {
+        "name": "人因工程學",
+        "semester": 1,
+        "credit": 2
+      },
+      {
+        "name": "電子化企業概論實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "人因工程實習",
+        "semester": 1,
+        "credit": 1
+      },
+      {
+        "name": "實務專題",
+        "semester": 2,
+        "credit": 2
+      }
+    ],
+    "FourthYear": [
+      {
+        "name": "實務專題",
+        "semester": 1,
+        "credit": 2
+      }
+    ],
+    "optional": [],
+    "other": [
+      {
+        "name": "自由選修課程",
+        "semester": 0,
+        "credit": 44,
+        "isSpecialCheck": true
+      }
+    ]
+  }
+}
