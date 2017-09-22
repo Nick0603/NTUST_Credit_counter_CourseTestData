@@ -14,11 +14,6 @@
                 "credit": 3
             },
             {
-                "name": "設計素描(一)",
-                "semester": 1,
-                "credit": 1
-            },
-            {
                 "name": "設計史",
                 "semester": 1,
                 "credit": 3
@@ -47,16 +42,6 @@
                 "name": "設計素描(二)",
                 "semester": 2,
                 "credit": 1
-            },
-            {
-                "name": "色彩計畫",
-                "semester": 2,
-                "credit": 3
-            },
-            {
-                "name": "製造程序",
-                "semester": 2,
-                "credit": 3
             }
         ],
         "SecondYear": [
@@ -69,11 +54,6 @@
                 "name": "電腦輔助設計(一)",
                 "semester": 1,
                 "credit": 3
-            },
-            {
-                "name": "設計表現技法(一)",
-                "semester": 1,
-                "credit": 2
             },
             {
                 "name": "材料與加工",
@@ -94,11 +74,6 @@
                 "name": "設計表現技法(二)",
                 "semester": 2,
                 "credit": 2
-            },
-            {
-                "name": "造型設計",
-                "semester": 2,
-                "credit": 3
             },
             {
                 "name": "設計方法",
